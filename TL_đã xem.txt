@@ -1,0 +1,5 @@
+Kỹ thuật Nhánh Cận (Branch and Bound): https://www.youtube.com/watch?v=GnvnnOQZ5n0
+
+Lecture 14 Branch and Bound: Lecturer: Ha Dai Duong
+
+https://www.geeksforgeeks.org/fundamentals-of-algorithms/#BranchandBound
