@@ -46,7 +46,7 @@
       <tr>
        <td>Nguyễn Quốc Thái</td>
        <td>20520304</td>
-       <td> </td>
+       <td>https://github.com/QuocThai-254</td>
        <td>20520304@gm.uit.edu.vn</td>  
       </tr>
 </table>
